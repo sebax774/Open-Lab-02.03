@@ -6,7 +6,7 @@ namespace Open_Lab_02._03
     {
         public int Remainder(int dividend, int divisor)
         {
-            throw new NotImplementedException();
+            return (dividend % divisor);
         }
     }
 }
